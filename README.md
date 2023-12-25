@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HITCH-BEAR
+- 👀 I’m interested in AI and algorithm
+- 🌱 I’m currently learning coding and programmation
